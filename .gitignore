@@ -58,4 +58,4 @@ testem.log
 Thumbs.db
 
 # Local TEI embedding model files (large)
-docker/embedding/
+docker/embedding
